@@ -24,7 +24,7 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=babayaga110&theme=tokyonight&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=babayaga110" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=babayaga110&theme=github" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=babayaga110&theme=tokyonight" />
 </div>
 
 <br />
