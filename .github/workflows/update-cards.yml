@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=babayaga110&theme=tokyonight&show_icons=true&hide_border=true"
+          options: "username=babayaga110&show_icons=true&hide_rank=true&hide_border=true&bg_color=161B22&title_color=F0F6FC&text_color=C9D1D9&icon_color=58A6FF&card_width=495"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=babayaga110&theme=tokyonight&layout=compact&hide_border=true"
+          options: "username=babayaga110&layout=compact&langs_count=6&hide_border=true&bg_color=161B22&title_color=F0F6FC&text_color=C9D1D9&icon_color=58A6FF&card_width=495"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
