@@ -1,6 +1,10 @@
 name: Update README cards
 
 on:
+  push:
+    branches: [master]
+    paths:
+      - .github/workflows/update-cards.yml
   schedule:
     - cron: "17 1 * * *" # once a day
   workflow_dispatch: # adds a "Run workflow" button on the Actions tab
