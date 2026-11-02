@@ -1,52 +1,52 @@
-<div align="center">
-   <h1>Hi there, I'm Karan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-   
-</div>
- 
- 
-<br />
-
- 
-
- <p align="center">
-  <h4> Front-end Developer || UI Design || Front-end Mentor </h4>
-   </p>
-
-
-
-
-<!--  -->
-
-<br />
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=babayaga110&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=babayaga110&theme=tokyonight" alt="GitHub Streak" />
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=babayaga110&bg_color=1b1a1c&color=9e4c98&line=9e4c98&point=87a7f2&area=true&hide_border=true" alt="Ashutosh"/>
-</div>
-
-<br />
-
-<p align="center" >
-   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=babayaga110&&show_icons=true&theme=tokyonight"/>
-  </a>
+<!-- Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Hi%20there,%20I%27m%20Karan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hi there, I'm Karan" />
 </p>
-
-### - Languages and Tools...
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/babayaga110/babayaga110/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Front-end+Developer;UI+Design;Front-end+Mentor" alt="Front-end Developer | UI Design | Front-end Mentor" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/babayaga110?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd" alt="Repositories" /></a>
+  <a href="https://github.com/babayaga110?tab=followers"><img src="https://img.shields.io/github/followers/babayaga110?style=for-the-badge&logo=github&logoColor=70a5fd&label=Followers&labelColor=1a1b27&color=70a5fd" alt="Followers" /></a>
+</p>
 
+<br />
+
+<!-- Tech stack -->
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="44" height="44" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="44" height="44" alt="npm" title="npm" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="44" height="44" alt="Chrome" title="Chrome" />
+</p>
+
+<br />
+
+<!-- GitHub stats -->
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=babayaga110&theme=tokyonight&show_icons=true&hide_border=true" alt="Karan's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=babayaga110&theme=tokyonight&hide_border=true" alt="Karan's GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babayaga110&theme=tokyonight&layout=compact&hide_border=true" alt="Karan's top languages" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=babayaga110&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Karan's contribution graph" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=120&section=footer" alt="" />
+</p>
